@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_primary">#EF6C00</color>
+    <color name="grey">#898989</color>
+
+    <color name="lavender">#E6E6FA</color>
+    <color name="dark_lavender">#B0B0E6</color>
+
+    <color name="light_blue">#87CEFA</color>
+    <color name="light_blue_variant">#6CA6CD</color>
+    <color name="dark_light_blue">#4F79A7</color>
+    <color name="blueish">#A0B0EF</color>
+
+    //pallete
+    <color name="pal_lavender">#773d8b</color>
+    <color name="pal_paige">#e4d6ce</color>
+    <color name="pal_sky">#99d3f7</color>
+    <color name="pal_white">#fbfafc</color>
+    <color name="pal_ping">#b4579a</color>
+    <color name="pal_lightSky">#c9effb</color>
+
+</resources>
